@@ -1,0 +1,13 @@
+﻿* Confirmation bias. How much do users fact check their information?
+* Population comparison - How much does this feeding of fake news affect certain areas, age, gender.
+* Comparing news options - Are certain networks/companies more commonly pushing “fake news”?
+* Social Media output - How heavily does “fake news” go through and influence the population on social media?
+* Education level: Does the level of education affect whether a person believes in Fake News?
+
+
+
+
+Planned Graph:
+* Histogram : Fake news per age group
+* Keyword visualization / Pie Chart
+* Bar chart : Sources to Fakenews count vs lower Fakenews count
