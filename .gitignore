@@ -74,6 +74,11 @@ docs/_build/
 # PyBuilder
 target/
 
+#Mac OS file exclusion
+.DS_Store
+#config file exclusion
+config.py
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
