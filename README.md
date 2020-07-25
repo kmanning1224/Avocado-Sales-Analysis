@@ -9,6 +9,7 @@ HA: There IS a difference in various aspects of avocados studied throughout the 
 
 ### Questions Reviewed:
 ####	Who exports the most avocados to the US?
+*Jupyter Notebook for this section [here](https://github.com/kmanning1224/Project1-Repo/blob/master/Sophie%20Data/Sofiecado.ipynb)*
 
 •	Chi squared value of 21,403,475,432.32 exceeds the critical value of 9.49 AND the p-value is 0.0, so we can assume that the results are statistically significant.
 
@@ -23,6 +24,8 @@ HA: There IS a difference in various aspects of avocados studied throughout the 
 
 
 ####	Does the month of year affect avocado sales or prices?
+*Jupyter Notebook for this section [here](https://github.com/kmanning1224/Project1-Repo/blob/master/Christina%20Data/ChristinaAvocCleaned.ipynb)*
+
 •	To find seasonal sales information, dates, total volume sold, and the average price of the avocados were needed. This information showed that time of year could affect volume sold, but more research needed to be made for other factors including: supply and demand, weather, and holidays.
 
 •	When the individual years were analyzed compared to sales, a conclusion could not be made for the month with the highest sales or the month with the lowest avocado prices.
@@ -34,6 +37,8 @@ HA: There IS a difference in various aspects of avocados studied throughout the 
 
 
 ####	What is the popularity of avocados within the United states sold by region?
+*Jupyter Notebook for this section [here](https://github.com/kmanning1224/Project1-Repo/blob/master/Dawn%20Data/DawnCode_Avocado.ipynb)*
+
 •	Hass avocado board identified 54 top market regions within the United States, the data provided included all sizes and bulk distributions.
 
 •	Data indicates Total consumption of avocado for the United States:
@@ -64,6 +69,8 @@ HA: There IS a difference in various aspects of avocados studied throughout the 
 
 
 ####	How do the prices of conventional avocados compare to organic?
+
+*Jupyter Notebook for this [here](https://github.com/kmanning1224/Project1-Repo/blob/master/Avocado%20Data%20-K/data/Comparisons.ipynb)*
 
 •	As the box plot analysis showed, Organic avocados cost roughly 34% more than Conventional.
 
